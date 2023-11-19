@@ -1,0 +1,71 @@
+data type 
+variable
+id function 
+string function
+ .upper 
+ .lowet
+ alnum
+ .alpa
+ .digital
+ .numeric
+ ex....
+index function 
+ .slicing (:)
+len function
+find function
+replace
+operators
+ .math matics
+ .comparison op  (True or false)
+ . Logical op.   (  and,or,not )
+ .Bitwise oper.  (& ,| ,<<,>>) 
+ .Escape character   ( \  , \t   , \n)
+ .if and else 
+input 
+swap
+forloop
+while   loops
+revese
+data structure 
+ 1 list  []
+ 2 tuple  ()
+ 3 set  {}
+ 4 dicsnory {}
+
+1)list []
+  .append .inset .entend . index  .sum  .min  .max  .remove .clear .del (delete) .pop .count 
+ .list comparison >>>> z = [i+" "+j for i in x for j in y]
+
+2)tuple () 
+ .min .max .count .len .index  .sum    working function this only   
+
+3)set {}
+ .add .update . union .difference .symmetric_difference  . remove .discard .clear .pop (not store)
+
+4)dicsnory { key : value }   
+ .get .keys .values .items   .append .pop (store)
+
+function 
+  >function overload      >function overidding        >recursion  
+
+modules 
+
+*pip install    *help()
+  
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
